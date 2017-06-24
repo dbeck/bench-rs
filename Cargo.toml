@@ -1,0 +1,13 @@
+[package]
+name = "bench-rs"
+version = "0.0.1"
+authors = ["David Beck <david.beck.priv@gmail.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/dbeck/bench-rs"
+description = "TBD"
+keywords = ["benchmark"]
+readme = "README.md"
+homepage = "https://github.com/dbeck/bench-rs"
+
+[dependencies]
+
